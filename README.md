@@ -8,3 +8,5 @@ This is the meta-repository for the Open Mesh Infrastructure for Telemetry (OMIT
 
 The goal of OMIT is to provide an unstoppable, uncensored, worldwide messaging infrastructure on heterogeneous network layers including Internet, Short Wave/VHF/UHF radio, LoRaWAN, WiFi and Bluetooth
 
+
+![](https://raw.githubusercontent.com/romeokienzler/omit/master/images/%20reference_architecture.png "")
