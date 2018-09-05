@@ -14,7 +14,7 @@ The goal of OMIT is to provide an unstoppable, uncensored, worldwide messaging i
 ## Example Deployment
 
 
-![](https://raw.githubusercontent.com/romeokienzler/omit/master/images/%20reference_architecture.png "")
+![](https://raw.githubusercontent.com/romeokienzler/omit/master/images/example1.png "")
 
 This tiny little example should give you an idea on how a OMIT deployment looks like. It uses APRS in most of the cases but is open to use other low layer messaging protocols as well (e.g. LoRaWan, ...)
 
